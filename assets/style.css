@@ -254,3 +254,11 @@ li:hover:last-child{
         left: -16%;
     }
 }
+@media (max-width: 325px){
+    ul{
+        width: 110%;
+    }
+    .ball{
+        width: 200px;
+    }
+}
